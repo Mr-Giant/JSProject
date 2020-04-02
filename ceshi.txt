@@ -1,7 +1,4 @@
 zhnfagn�ҿ���
-ivans
-<<<<<<< HEAD
+ivan
 haha
-=======
 阿萨大啊撒
->>>>>>> 2a3a199da004dea9ac944ec9959a0d2227179dd2
